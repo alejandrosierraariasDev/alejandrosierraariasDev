@@ -66,7 +66,6 @@ I am currently developing and maintaining the following projects:
 - **cypress-web-e2e**
 - **postman-newman-automation**
 - **appium-java-mobile-tests-**
-- **alejandrosierraariasDev**
 - **terraform-k8s-ci**
 - **aws-ci-cd-pipeline**
 - **mutation-testing-pitest**
