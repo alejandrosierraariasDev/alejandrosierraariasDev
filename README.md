@@ -42,6 +42,7 @@
 
 ## DevOps & SRE | QA Automation Manager | Kubernetes, CI/CD & Observability
 
+
 As a DevOps and Quality Engineering Leader, my mission is to accelerate and optimize software delivery by embedding quality into every stage of the lifecycle. I combine DevOps practices, cloud-native technologies, and robust Quality Engineering strategies to build scalable, reliable, and high-performing solutions.
 
 I have strong expertise in infrastructure automation (Kubernetes, Terraform, CI/CD pipelines), performance testing (Locust, k6), and observability & monitoring (Prometheus, Grafana, monitoring & alerting solutions).
@@ -75,6 +76,13 @@ I am currently developing and maintaining the following projects:
 
 ---
 
-### 📫 Contact me
-* **LinkedIn**: [Alejandro Sierra](https://www.linkedin.com/in/alejandro-sierra/)
-* **Email**: alejandrosierraarias@hotmail.com
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-sierra/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60" />
+  </a>
+  <a href="mailto:alejandrosierraarias@hotmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="60" height="60" />
+  </a>
+</p>
