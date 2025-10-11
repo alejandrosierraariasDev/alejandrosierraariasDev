@@ -71,8 +71,12 @@ I am currently developing and maintaining the following projects:
 - **aws-ci-cd-pipeline**
 - **mutation-testing-pitest**
 - **contract-testing-pact**
-- **api-load-testing-k6**
-- **dom-performance-testing**
+- **k6-performance**
+- **schema-validation-testing**
+- **chaos-testing**
+- **robot-framwework**
+- **go-sonar-cicd-pipeline**
+- **ts-appium**
 
 ---
 
