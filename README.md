@@ -69,9 +69,7 @@ I am currently developing and maintaining the following projects:
 - **appium-java-mobile-tests-**
 - **terraform-k8s-ci**
 - **aws-ci-cd-pipeline**
-- **mutation-testing-pitest**
 - **contract-testing-pact**
-- **k6-performance**
 - **schema-validation-testing**
 - **chaos-testing**
 - **robot-framwework**
