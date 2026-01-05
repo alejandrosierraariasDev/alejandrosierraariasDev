@@ -75,9 +75,9 @@ I am currently developing and maintaining the following projects:
 - **robot-framwework**
 - **go-sonar-cicd-pipeline**
 - **ts-appium**
-- **Bruno for api testing"
+- **Bruno for api testing**
 - **Jmeter**
-- **Gatling **
+- **Gatling**
 - **Owasp**
 - 
 
