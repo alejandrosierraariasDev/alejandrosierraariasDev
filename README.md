@@ -70,11 +70,16 @@ I am currently developing and maintaining the following projects:
 - **terraform-k8s-ci**
 - **aws-ci-cd-pipeline**
 - **contract-testing-pact**
-- **schema-validation-testing**
-- **chaos-testing**
+- **chaos-testing with Chaos Mesh**
+- **chaos-engineering with gremlin**
 - **robot-framwework**
 - **go-sonar-cicd-pipeline**
 - **ts-appium**
+- **Bruno for api testing"
+- **Jmeter**
+- **Gatling **
+- **Owasp**
+- 
 
 ---
 
