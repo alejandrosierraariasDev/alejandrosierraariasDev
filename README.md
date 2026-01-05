@@ -37,6 +37,24 @@
   <img src="https://img.shields.io/badge/Prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-f46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spectral-1B1C30?style=for-the-badge&logo=stoplight&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure-FF4F5A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/JaCoCo-D54C3F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testcontainers-017CEE?style=for-the-badge&logo=testcontainers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stryker-E84D3D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Husky-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests-000000?style=for-the-badge" />
 </p>
 
 ---
@@ -50,36 +68,72 @@ I have strong expertise in infrastructure automation (Kubernetes, Terraform, CI/
 
 Versatility is one of my key assets: I work across performance, functional quality, and DevOps leadership. This allows me to approach challenges holistically, ensuring delivery pipelines that are faster, smarter, and more reliable.
 
-**Key strengths:**
+<br>
 
-- **Quality Strategy:** Driving test automation and quality frameworks that improve efficiency, accelerate releases, and enhance delivery standards.
-- **Performance & Reliability:** Implementing load-testing, monitoring, and observability solutions to ensure systems are fast, secure, and stable.
-- **Automation & Tooling:** Building automation frameworks, CI/CD pipelines (continuous integration & delivery), and custom tools in Python, Java, JavaScript, and Go.
-- **Leadership & Mentorship:** Fostering DevOps culture, empowering agile teams, and promoting ownership and continuous improvement.
+## **Key strengths:**
 
+- **Quality Strategy & End-to-End Assurance** Defining and executing quality strategies across the full software development lifecycle (SDLC), ensuring alignment between business goals, engineering practices, and delivery outcomes from pre-sales and requirements definition to production monitoring and continuous improvement.
+
+ 
+- **Performance, Reliability & Observability:** Designing and implementing performance testing, monitoring, and observability solutions to guarantee system scalability, security, and resilience, while providing actionable insights for both technical teams and executive stakeholders.
+ 
+
+- **Automation,AI, CI/CD & Tooling:** Building scalable test automation frameworks, CI/CD pipelines, and custom tooling using Python, Java, JavaScript, and Go, with a strong focus on reducing time-to-market, improving reliability, enabling data-driven decision-making, and exploring and implementing emerging technologies such as AI and cloud to innovate processes and enhance efficiency.
+ 
+
+- **Leadership, Mentorship & Stakeholder Management:** Leading cross-functional teams, mentoring engineers, and fostering a strong quality and DevOps culture, while acting as a trusted partner for product, business, and customer stakeholders.
+ 
+
+- **Client Engagement & Pre-Sales Support:** Participating in client meetings, technical workshops, and pre-sales activities, contributing to solution design, quality positioning, and value propositions that support sales processes and long-term customer success.
+
+
+- **KPIs, Metrics & Executive Reporting:** Defining, measuring, and tracking quality and delivery KPIs and translating technical metrics into clear, concise reports for C-Level and senior management.
 ---
 
 ## 🔥 What I'm Working On
 
 I am currently developing and maintaining the following projects:
 
-- **bdd-automation-specflow**
-- **cypress-web-e2e**
-- **postman-newman-automation**
-- **appium-java-mobile-tests-**
-- **terraform-k8s-ci**
-- **aws-ci-cd-pipeline**
-- **contract-testing-pact**
-- **chaos-testing with Chaos Mesh**
-- **chaos-engineering with gremlin**
-- **robot-framwework**
-- **go-sonar-cicd-pipeline**
-- **ts-appium**
-- **Bruno for api testing**
-- **Jmeter**
-- **Gatling**
-- **Owasp**
-- **Functional2Gherkin for BDD/ATDD**
+DevOps and security:
+
+- **terraform-k8s-ci** [ ]
+- **aws-ci-cd-pipeline** [ ]
+- **chaos-testing with Chaos Mesh** [ ]
+- **chaos-engineering with gremlin** [ ]
+- **go-sonar-cicd-pipeline** [ ]
+- **Owasp** [ ]
+
+Quality and Automation: 
+
+- **cypress-web-e2e** [ ]
+- **appium-java-mobile-tests-** [ ]
+- **contract-testing-pact** [ ]
+- **robot-framework** [ ]
+- **ts-appium** [ ]
+- **Bruno for api testing** [ ]
+- **Gatling** [ ]
+- **Jmeter** [x]
+- **postman-newman-automation** [x]
+- **api-contract-quality-gateway** [x]
+- **ai-driven-api-qa** [x]
+- **java-testcontainers-springboot** [x]
+- **k6** [x]
+- **mutation-testing-stryker** [x]
+- **mutation-testing-pitest** [x]
+- **codeguard-flow** [x]
+- **dom-performance-testing** [x]
+- **apitestingproject** [x]
+- **locust-load-testing** [x]
+- **multiapichecker** [x]
+- **db_performance** [x]
+- **accesibility** [x]
+
+
+
+SDLC and way of working:
+
+- **bdd-automation-specflow** [ ]
+- **Functional2Gherkin for BDD/ATDD** [ ]
 
 ---
 
