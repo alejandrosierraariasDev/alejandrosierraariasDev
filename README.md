@@ -112,6 +112,7 @@ Quality and Automation:
 - **ts-appium** [ ]
 - **Bruno for api testing** [ ]
 - **Gatling** [ ]
+- **Visual testing with Playwright** [ ]
 - **Jmeter** [x]
 - **postman-newman-automation** [x]
 - **api-contract-quality-gateway** [x]
