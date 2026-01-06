@@ -135,6 +135,8 @@ SDLC and way of working:
 - **bdd-automation-specflow** [ ]
 - **Functional2Gherkin for BDD/ATDD** [ ]
 
+Development:
+- **API with its own swagger to provide a real platform** [ ]
 ---
 
 
