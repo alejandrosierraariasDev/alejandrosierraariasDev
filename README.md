@@ -137,7 +137,7 @@ SDLC and way of working:
 - **Functional2Gherkin for BDD/ATDD** [ ]
 
 Development:
-- **API with its own swagger to provide a real platform** [ ]
+- **API with its own swagger to provide a real platform** [X]
 ---
 
 
