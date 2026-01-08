@@ -129,7 +129,9 @@ Quality and Automation:
 - **db_performance** [x]
 - **accesibility** [x]
 
+AI:
 
+- **Deepeval and Openevals** [ ]
 
 SDLC and way of working:
 
