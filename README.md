@@ -10,7 +10,7 @@ with Quality Engineering built into that remit rather than bolted on beside it.
 **88% fewer production incidents · 863 defects stopped before reaching the business · 43% improvement in unit test quality**
 — achieved redesigning the quality model across 25+ teams, with no added headcount or tooling spend.
 
-**[🌐 View my full portfolio site →](https://alejandrosierraariasdev.github.io/)**
+**[🌐 View my full portfolio site →](https://alejandrosierraariasdev.github.io/alejandrosierraariasDev)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrosierra)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alejandrosierraarias)
@@ -62,5 +62,5 @@ with Quality Engineering built into that remit rather than bolted on beside it.
 ---
 
 <div align="center">
-<sub>Full experience, education and case studies on <a href="https://alejandrosierraariasdev.github.io/">my portfolio site</a>.</sub>
+<sub>Full experience, education and case studies on <a href="https://alejandrosierraariasdev.github.io/alejandrosierraariasDev">my portfolio site</a>.</sub>
 </div>
