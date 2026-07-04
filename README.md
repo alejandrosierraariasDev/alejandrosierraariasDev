@@ -1,8 +1,11 @@
 <div align="center">
 
-# Hi, I'm Alejandro Sierra 👋
+# Hi, I'm Alejandro Sierra 
 
 ### Delivery Manager AI-Native · Quality Engineering & PMO Enablement · CTO Office · RFP Leadership
+
+<br>
+<br>
 
 Delivery Manager who owns predictability and outcomes across complex, multi-team programs,
 with Quality Engineering built into that remit rather than bolted on beside it.
@@ -10,8 +13,12 @@ with Quality Engineering built into that remit rather than bolted on beside it.
 **88% fewer production incidents · 863 defects stopped before reaching the business · 43% improvement in unit test quality**
 — achieved redesigning the quality model across 25+ teams, with no added headcount or tooling spend.
 
-**[🌐 View my full portfolio site →](https://alejandrosierraariasdev.github.io/alejandrosierraariasDev)**
+<br>
+<br>
 
+**[🌐 View my full portfolio site →](https://alejandrosierraariasdev.github.io/alejandrosierraariasDev)**
+<br>
+<br>
 
 </div>
 <p align="center">
@@ -28,14 +35,20 @@ with Quality Engineering built into that remit rather than bolted on beside it.
 </p>
 
 ---
+<br>
+<br>
+<br>
+<h2 align="center"> What I do</h2>
 
-## What I do
+- **Delivery Management & PMO Enablement** predictability, stakeholder reporting, DORA metrics, budgets and SLAs across multi-team programs.
+- **Quality Engineering Strategy** own QE strategy end to end: what to test, what it costs, and how to plan around it instead of after it.
+- **AI-Native / Agentic Tooling** build agentic QA pipelines (Claude Code, Gemini CLI, Antigravity) that turn a functional spec into a full test suite.
+- **CTO Office & RFP Leadership** contribute to technical strategy at the org level and translate technical complexity into client-facing proposals.
+- **Mentorship** move engineers and QE professionals from manual testing into automation engineering.
 
-- **Delivery Management & PMO Enablement** — predictability, stakeholder reporting, DORA metrics, budgets and SLAs across multi-team programs.
-- **Quality Engineering Strategy** — own QE strategy end to end: what to test, what it costs, and how to plan around it instead of after it.
-- **AI-Native / Agentic Tooling** — build agentic QA pipelines (Claude Code, Gemini CLI, Antigravity) that turn a functional spec into a full test suite.
-- **CTO Office & RFP Leadership** — contribute to technical strategy at the org level and translate technical complexity into client-facing proposals.
-- **Mentorship** — move engineers and QE professionals from manual testing into automation engineering.
+<br>
+<br>
+<br>
 
 
 <h2 align="center">🚀 Tech Stack</h2>
@@ -99,38 +112,11 @@ with Quality Engineering built into that remit rather than bolted on beside it.
 
 ---
 
-## DevOps & SRE | QA Automation Manager | Kubernetes, CI/CD & Observability
-
-
-As a DevOps and Quality Engineering Leader, my mission is to accelerate and optimize software delivery by embedding quality into every stage of the lifecycle. I combine DevOps practices, cloud-native technologies, and robust Quality Engineering strategies to build scalable, reliable, and high-performing solutions.
-
-I have strong expertise in infrastructure automation (Kubernetes, Terraform, CI/CD pipelines), performance testing (Locust, k6), and observability & monitoring (Prometheus, Grafana, monitoring & alerting solutions).
-
-Versatility is one of my key assets: I work across performance, functional quality, and DevOps leadership. This allows me to approach challenges holistically, ensuring delivery pipelines that are faster, smarter, and more reliable.
-
+<br>
+<br>
 <br>
 
-## **Key strengths:**
-
-- **Quality Strategy & End-to-End Assurance** Defining and executing quality strategies across the full software development lifecycle (SDLC), ensuring alignment between business goals, engineering practices, and delivery outcomes from pre-sales and requirements definition to production monitoring and continuous improvement.
-
- 
-- **Performance, Reliability & Observability:** Designing and implementing performance testing, monitoring, and observability solutions to guarantee system scalability, security, and resilience, while providing actionable insights for both technical teams and executive stakeholders.
- 
-
-- **Automation,AI, CI/CD & Tooling:** Building scalable test automation frameworks, CI/CD pipelines, and custom tooling using Python, Java, JavaScript, and Go, with a strong focus on reducing time-to-market, improving reliability, enabling data-driven decision-making, and exploring and implementing emerging technologies such as AI and cloud to innovate processes and enhance efficiency.
- 
-
-- **Leadership, Mentorship & Stakeholder Management:** Leading cross-functional teams, mentoring engineers, and fostering a strong quality and DevOps culture, while acting as a trusted partner for product, business, and customer stakeholders.
- 
-
-- **Client Engagement & Pre-Sales Support:** Participating in client meetings, technical workshops, and pre-sales activities, contributing to solution design, quality positioning, and value propositions that support sales processes and long-term customer success.
-
-
-- **KPIs, Metrics & Executive Reporting:** Defining, measuring, and tracking quality and delivery KPIs and translating technical metrics into clear, concise reports for C-Level and senior management.
----
-
-## 🔥 What I'm Working On
+<h2 align="center">🔥 What I'm Working On</h2>
 
 I am currently developing and maintaining the following projects:
 
@@ -184,9 +170,11 @@ Development:
 - **API with its own swagger to provide a real platform** [X]
 ---
 
+<br>
+<br>
+<br>
 
-
-## Certifications
+<h2 align="center">Certifications</h2>
 
 - **Building with the Claude API** — Anthropic
 - **ISTQB CTFL** — Certified Tester Foundation Level, 2021
@@ -194,7 +182,9 @@ Development:
 - **PCEP** — Entry-Level Python Programmer, 2021
 
 ---
-
+<br>
+<br>
+<br>
 <div align="center">
 <sub>Full experience, education and case studies on <a href="https://alejandrosierraariasdev.github.io/alejandrosierraariasDev">my portfolio site</a>.</sub>
 </div>
