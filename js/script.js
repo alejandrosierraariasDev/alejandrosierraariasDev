@@ -70,7 +70,7 @@ if (earlier){
   items.slice(1).forEach(li => li.style.display = 'none');
 
   const toggle = document.createElement('button');
-  toggle.textContent = 'Ver experiencia anterior (2016 – 2020)';
+  toggle.textContent = 'View earlier experience (2016 – 2020)';
   toggle.className = 'btn btn-ghost';
   toggle.style.marginTop = '16px';
   toggle.style.fontSize = '0.85rem';
@@ -84,7 +84,7 @@ if (earlier){
     expanded = !expanded;
     items.forEach(li => li.style.display = expanded ? '' : 'none');
     toggle.textContent = expanded
-      ? 'Ocultar experiencia anterior'
-      : 'Ver experiencia anterior (2016 – 2020)';
+      ? 'Hide earlier experience'
+      : 'View earlier experience (2016 – 2020)';
   });
 }
