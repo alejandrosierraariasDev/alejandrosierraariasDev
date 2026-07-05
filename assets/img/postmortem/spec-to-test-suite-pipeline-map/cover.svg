@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Abstract cover art: a chain of pipeline phases with a branch">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f151d"/>
+      <stop offset="1" stop-color="#0b0f14"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4fd1c5"/>
+      <stop offset="1" stop-color="#7c9eff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+
+  <g stroke="url(#flow)" stroke-width="3" fill="none">
+    <path d="M60 120 L150 120"/>
+    <path d="M150 120 L150 90 L230 90"/>
+    <path d="M150 120 L150 150 L230 150"/>
+    <path d="M230 90 L310 90 L310 120"/>
+    <path d="M230 150 L310 150 L310 120"/>
+    <path d="M310 120 L340 120"/>
+  </g>
+
+  <rect x="40" y="102" width="40" height="36" rx="8" fill="#0b0f14" stroke="#4fd1c5" stroke-width="2.5"/>
+  <rect x="130" y="102" width="40" height="36" rx="8" fill="#0b0f14" stroke="#4fd1c5" stroke-width="2.5"/>
+  <rect x="210" y="72" width="40" height="36" rx="8" fill="#0b0f14" stroke="#7c9eff" stroke-width="2.5"/>
+  <rect x="210" y="132" width="40" height="36" rx="8" fill="#0b0f14" stroke="#7c9eff" stroke-width="2.5"/>
+  <rect x="290" y="102" width="40" height="36" rx="8" fill="#0b0f14" stroke="#7c9eff" stroke-width="2.5"/>
+
+  <g opacity="0.3" stroke="#223041" stroke-width="1">
+    <line x1="0" y1="220" x2="400" y2="220"/>
+    <line x1="0" y1="300" x2="400" y2="300"/>
+  </g>
+</svg>

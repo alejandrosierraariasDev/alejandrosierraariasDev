@@ -180,10 +180,10 @@ Development:
 
 <h2 align="center">Certifications</h2>
 
-- **Building with the Claude API** — Anthropic
-- **ISTQB CTFL** — Certified Tester Foundation Level, 2021
-- **LPIC-1** — Linux Professional Institute, 2022
-- **PCEP** — Entry-Level Python Programmer, 2021
+- **Building with the Claude API** · Anthropic
+- **ISTQB CTFL** · Certified Tester Foundation Level, 2021
+- **LPIC-1** · Linux Professional Institute, 2022
+- **PCEP** · Entry-Level Python Programmer, 2021
 
 ---
 <br>
