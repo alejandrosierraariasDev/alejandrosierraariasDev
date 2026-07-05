@@ -20,7 +20,7 @@ plugins:
 
 # GoatCounter site code (the part before ".goatcounter.com" in your
 # dashboard URL). Leave blank to keep analytics disabled.
-goatcounter: ""
+goatcounter: "alejandrosierradev"
 
 defaults:
   - scope:
