@@ -333,10 +333,10 @@ p{ margin: 0; }
   margin-top: 2px;
 }
 .stat-card-1{ top: -10px; left: -10px; animation-delay: 0s; }
-.stat-card-2{ bottom: 40px; right: -30px; animation-delay: 1.5s; }
+.stat-card-2{ bottom: -140px; right: -10px; animation-delay: 1.5s; }
 .stat-card-3{ bottom: -30px; left: 30px; animation-delay: 3s; }
 .stat-card-4{ top: -10px; right: -10px; animation-delay: 0.75s; }
-.stat-card-5{ bottom: -100px; left: 170px; animation-delay: 2.25s; }
+.stat-card-5{ bottom: -250px; left: 80px; animation-delay: 2.25s; }
 
 @keyframes float{
   0%, 100%{ transform: translateY(0); }
