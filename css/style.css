@@ -130,6 +130,7 @@ p{ margin: 0; }
   margin-right: auto;
 }
 .brand .dot{ color: var(--accent); }
+.nav-links .dot{ color: var(--accent); font-weight: 700; }
 .nav-links{
   display: flex;
   gap: 28px;
