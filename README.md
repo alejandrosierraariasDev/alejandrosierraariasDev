@@ -20,7 +20,7 @@ Achieved by redesigning the quality model across 25+ teams, with no added headco
 <br>
 <br>
 
-**[🌐 View my full portfolio site →](https://alejandrosierraariasdev.github.io/alejandrosierraariasDev)**
+**[🌐 View my full portfolio site →](https://alejandrosierraariasdev.github.io/)**
 <br>
 <br>
 
@@ -190,5 +190,5 @@ Development:
 <br>
 <br>
 <div align="center">
-<sub>Full experience, education and case studies on <a href="https://alejandrosierraariasdev.github.io/alejandrosierraariasDev">my portfolio site</a>.</sub>
+<sub>Full experience, education and case studies on <a href="https://alejandrosierraariasdev.github.io/">my portfolio site</a>.</sub>
 </div>
