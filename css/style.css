@@ -622,6 +622,16 @@ p{ margin: 0; }
   font-size: 0.82rem;
   color: var(--text-faint);
 }
+.footer-links{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.footer-rss{
+  color: var(--text-dim);
+  transition: color 0.2s ease;
+}
+.footer-rss:hover{ color: var(--accent); }
 .back-to-top{
   color: var(--text-dim);
   transition: color 0.2s ease;

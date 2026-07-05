@@ -18,6 +18,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# GoatCounter site code (the part before ".goatcounter.com" in your
+# dashboard URL). Leave blank to keep analytics disabled.
+goatcounter: ""
+
 defaults:
   - scope:
       path: ""
@@ -27,7 +31,11 @@ defaults:
 
 exclude:
   - README.md
+  - PUBLISHING.md
   - Gemfile
   - Gemfile.lock
-  - vendor
+  - package.json
+  - package-lock.json
   - node_modules
+  - scripts
+  - vendor
