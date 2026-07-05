@@ -441,6 +441,18 @@ p{ margin: 0; }
   font-size: 0.9rem;
   color: var(--text-dim);
 }
+.mini-stats{
+  display: flex;
+  gap: 28px;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+.mini-stat{
+  display: flex;
+  flex-direction: column;
+}
+.mini-stat .stat-num{ font-size: 1.3rem; }
 
 /* ---------- Timeline ---------- */
 .timeline{
