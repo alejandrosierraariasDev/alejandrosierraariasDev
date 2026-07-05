@@ -335,6 +335,8 @@ p{ margin: 0; }
 .stat-card-1{ top: -10px; left: -10px; animation-delay: 0s; }
 .stat-card-2{ bottom: 40px; right: -30px; animation-delay: 1.5s; }
 .stat-card-3{ bottom: -30px; left: 30px; animation-delay: 3s; }
+.stat-card-4{ top: 140px; right: -50px; animation-delay: 0.75s; }
+.stat-card-5{ top: 150px; left: -50px; animation-delay: 2.25s; }
 
 @keyframes float{
   0%, 100%{ transform: translateY(0); }
@@ -442,18 +444,6 @@ p{ margin: 0; }
   font-size: 0.9rem;
   color: var(--text-dim);
 }
-.mini-stats{
-  display: flex;
-  gap: 28px;
-  margin-top: 16px;
-  padding-top: 16px;
-  border-top: 1px solid var(--border);
-}
-.mini-stat{
-  display: flex;
-  flex-direction: column;
-}
-.mini-stat .stat-num{ font-size: 1.3rem; }
 
 /* ---------- Timeline ---------- */
 .timeline{
