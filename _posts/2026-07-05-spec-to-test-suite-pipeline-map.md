@@ -5,6 +5,7 @@ description: "A phase-by-phase map of an agentic QA pipeline: what each phase ta
 date: 2026-07-05 10:00:00 +0200
 tags: [ai-native, quality]
 cover: /assets/img/postmortem/spec-to-test-suite-pipeline-map/cover.svg
+image: /assets/img/postmortem/spec-to-test-suite-pipeline-map/og.png
 ---
 
 Every phase in this pipeline runs on the same rule the whole system is built around: nothing gets generated on a guess. If a functional spec leaves a gap, the pipeline asks about it instead of filling it in, and if the answer never comes, that gap stays visibly open rather than quietly turning into a test nobody actually agreed to.

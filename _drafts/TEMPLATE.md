@@ -5,6 +5,7 @@ description: "1-2 sentence excerpt used for the card and for the link preview wh
 date: 2026-01-01
 tags: [delivery, quality]
 cover: /assets/img/postmortem/SLUG/cover.jpg
+image: /assets/img/postmortem/SLUG/og.png
 references:
   - title: "Name of an external source"
     url: "https://example.com"
@@ -14,8 +15,11 @@ references:
 HOW TO USE THIS FILE
 1. Copy it into _posts/ and rename to: YYYY-MM-DD-your-slug.md (the date prefix is required by Jekyll).
 2. Put any images for this post in assets/img/postmortem/SLUG/ and update `cover:` above.
-3. Delete `subtitle`, `tags` items or the whole `references` block if a post doesn't need them.
-4. Write the body below in plain Markdown. This comment block itself won't render (it's inside a Markdown comment).
+3. `image:` is what LinkedIn/Twitter/Facebook show in the link preview card. It must be a raster
+   file (PNG or JPG, ideally 1200x630) — social crawlers do not render SVG, so it can't just point
+   at `cover.svg`. If you skip this field, shared links get no preview image at all.
+4. Delete `subtitle`, `tags` items or the whole `references` block if a post doesn't need them.
+5. Write the body below in plain Markdown. This comment block itself won't render (it's inside a Markdown comment).
    Feel free to delete it once you're used to the format.
 
 To preview an unpublished draft locally before it's live: `bundle exec jekyll serve --drafts`

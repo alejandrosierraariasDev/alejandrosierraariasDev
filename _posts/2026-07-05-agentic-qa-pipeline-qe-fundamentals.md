@@ -5,6 +5,7 @@ description: "An agentic pipeline that turns a spec into a full test suite is on
 date: 2026-07-05
 tags: [ai-native, quality]
 cover: /assets/img/postmortem/agentic-qa-pipeline-qe-fundamentals/cover.svg
+image: /assets/img/postmortem/agentic-qa-pipeline-qe-fundamentals/og.png
 ---
 
 Most conversations about AI and testing start with the model. Mine started with the opposite question: what does a test actually need to be worth, before I let anything, human or agent, ship it into a codebase I'm accountable for?
