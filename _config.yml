@@ -1,0 +1,33 @@
+title: Alejandro Sierra
+description: >-
+  Delivery Manager AI-Native and Quality Engineering Leader. Predictable
+  delivery, quality strategy and agentic tooling across multi-team programs.
+url: "https://alejandrosierra.dev"
+baseurl: ""
+
+permalink: /postmortem/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules

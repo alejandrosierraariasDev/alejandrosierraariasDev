@@ -1,0 +1,80 @@
+---
+layout: default
+---
+<article class="section pm-post">
+  <div class="container pm-post-inner">
+    <a class="pm-back" href="{{ '/postmortem/' | relative_url }}">← All postmortems</a>
+
+    <p class="pm-post-meta">
+      <span class="cl-ver">{{ page.date | date: "v%Y.%m.%d" }}</span>
+      <span class="dot">·</span>
+      <span>{{ page.content | strip_html | number_of_words | divided_by: 200 | at_least: 1 }} min read</span>
+    </p>
+
+    <h1 class="pm-post-title">{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="pm-post-subtitle">{{ page.subtitle }}</p>{% endif %}
+
+    {% if page.tags.size > 0 %}
+    <div class="cl-tags">{% for tag in page.tags %}<span>{{ tag }}</span>{% endfor %}</div>
+    {% endif %}
+
+    {% if page.cover %}
+    <div class="pm-post-cover">
+      <img src="{{ page.cover | relative_url }}" alt="" />
+    </div>
+    {% endif %}
+
+    <div class="pm-post-body">
+      {{ content }}
+    </div>
+
+    {% if page.references and page.references.size > 0 %}
+    <section class="pm-references">
+      <h2>Further reading</h2>
+      <ul>
+        {% for ref in page.references %}
+        <li><a href="{{ ref.url }}" target="_blank" rel="noopener">{{ ref.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    <div class="pm-share">
+      <a
+        class="btn btn-primary"
+        target="_blank"
+        rel="noopener"
+        href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}"
+      >Share on LinkedIn</a>
+      <button type="button" class="btn btn-ghost" id="pmCopyLink" data-url="{{ page.url | absolute_url }}">Copy link</button>
+    </div>
+  </div>
+</article>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  document.querySelectorAll('pre code.language-mermaid').forEach(function (block) {
+    var div = document.createElement('div');
+    div.className = 'mermaid';
+    div.textContent = block.textContent;
+    block.closest('pre').replaceWith(div);
+  });
+  if (window.mermaid && document.querySelector('.mermaid')) {
+    var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var themeAttr = document.documentElement.getAttribute('data-theme');
+    var isDark = themeAttr ? themeAttr === 'dark' : prefersDark;
+    mermaid.initialize({ startOnLoad: false, theme: isDark ? 'dark' : 'default' });
+    mermaid.run();
+  }
+
+  var copyBtn = document.getElementById('pmCopyLink');
+  if (copyBtn) {
+    copyBtn.addEventListener('click', function () {
+      navigator.clipboard.writeText(copyBtn.getAttribute('data-url')).then(function () {
+        var original = copyBtn.textContent;
+        copyBtn.textContent = 'Link copied ✓';
+        setTimeout(function () { copyBtn.textContent = original; }, 1800);
+      });
+    });
+  }
+</script>

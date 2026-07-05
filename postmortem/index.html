@@ -1,0 +1,23 @@
+---
+layout: default
+title: "PostMortem"
+description: "Field notes on delivery, quality engineering and AI-native leadership, written from the field."
+permalink: /postmortem/
+extra_scripts:
+  - /js/postmortem.js
+---
+<section class="section pm-archive">
+  <div class="container">
+    <p class="pm-eyebrow reveal">postmortem --log</p>
+    <h1 class="section-title reveal">All postmortems</h1>
+
+    <div class="filterbar" id="pmFilterBar" aria-label="Filter postmortems by tag"></div>
+    <div class="cl-list" id="pmList"></div>
+    <p class="pm-empty" id="pmEmpty" hidden>No postmortems match this filter yet.</p>
+    <nav class="pager" id="pmPager" aria-label="Postmortem pagination"></nav>
+  </div>
+</section>
+
+<script>
+  window.POSTMORTEM_DATA_URL = "{{ '/postmortem/postmortems.json' | relative_url }}";
+</script>
